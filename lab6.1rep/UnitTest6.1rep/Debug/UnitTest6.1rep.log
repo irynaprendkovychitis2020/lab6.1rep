@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  UnitTest6.1rep.cpp
+C:\Users\computer\Desktop\lab 6.1 rep\lab6.1rep\UnitTest6.1rep\UnitTest6.1rep.cpp(18,1): error C2660: Sum: функция не принимает 2 аргументов
+C:\Users\computer\Desktop\lab 6.1 rep\lab6.1rep\lab6.1rep\lab6.1rep.cpp(26,5): message : см. объявление "Sum"
